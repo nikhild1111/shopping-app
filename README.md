@@ -1,6 +1,6 @@
 # Shopping App - Redux State Management
 
-A feature-rich shopping application built with React and Redux, demonstrating advanced state management patterns. This project was developed as part of an internship task to showcase proficiency in handling complex application state with Redux Toolkit.
+A feature-rich shopping application  built with React and Redux, demonstrating advanced state management patterns. This project was developed as part of an internship task to showcase proficiency in handling complex application state with Redux Toolkit.
 
 ## 🎯 Project Overview
 
